@@ -1,2 +1,2 @@
 # Labosi
-Razni labosi za fakultet.
+Razne laboratorijske vježbe samostalno napisane za fakultet.
